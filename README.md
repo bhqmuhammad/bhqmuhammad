@@ -24,8 +24,6 @@ I'm **Muhammad Baihaqi**, a passionate developer who embraces **vibe coding** â€
 
 ## ðŸ¤– What is Vibe Coding?
 
-> *"Give in to the vibes and focus on the outcome, let AI handle the implementation"* - Inspired by Andrej Karpathy
-
 **Vibe coding** is a paradigm shift in software development that leverages AI tools and large language models (LLMs) to:
 
 ```javascript
